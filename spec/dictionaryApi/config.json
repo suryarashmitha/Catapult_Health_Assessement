@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://dictionary.iachieved.it/",
+    "contentType":"application/json",
+    "authorization": "Basic <insert the key here>"
+}
